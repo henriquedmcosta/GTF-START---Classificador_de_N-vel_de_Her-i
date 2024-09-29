@@ -1,5 +1,5 @@
-const nickname = "Asta"
-const nivelPoder = 8001
+let nickname = "Asta"
+let nivelPoder = 8001
 
 if (nivelPoder <= 1000) {
     classificacao = "Ferro";
